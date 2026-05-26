@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm CodNinja123!
 
-<!--
-**CodNinja123/CodNinja123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#About Me
+I am an aspiring Data Analyst and Python Developer passionate about transforming raw data into actionable insights through visual storytelling. I specialize in building data pipelines, analyzing financial assets, and engineering clean time-series models using the Anaconda ecosystem.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Technical Toolkit
+* **Languages:** Python (3.x)
+* **Libraries:** Pandas, NumPy, yfinance, Requests
+* **Visualization:** Matplotlib, Seaborn
+* **Tools & Platforms:** Anaconda, Jupyter Notebook, Git, GitHub
+
+---
+
+##  Featured Data Projects
+
+### [Stock Price Time-Series Analysis](https://github.com)
+An automated analytical dashboard tracking performance trends for mega-cap tech assets.
+* **Key Achievements:** Solved multi-threaded database locking issues, resampled granular daily data into weekly/monthly aggregates, and mapped 20-day vs. 200-day rolling moving averages to pinpoint market momentum.
+* **Tech Stack:** Python, `yfinance`, Pandas, Matplotlib
+
+###  [Exploratory Data Visualization Tutorial](https://github.com)
+A data pipeline built to unpack and interpret structural consumer behavior profiles.
+* **Key Achievements:** Built matrix distributions, categorical boxplots, feature density estimations, and multi-variable heatmaps to extract correlation signals from sample tables.
+* **Tech Stack:** Python, Jupyter, Seaborn, Matplotlib
+
+---
+
+##  Let's Connect!
+* **GitHub:** [://github.com](https://://github.com)
+* *Feel free to update this section with your LinkedIn or Email later!*

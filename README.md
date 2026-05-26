@@ -1,6 +1,6 @@
 # Hi, I'm CodNinja123!
 
-#About Me
+## About Me
 I am an aspiring Data Analyst and Python Developer passionate about transforming raw data into actionable insights through visual storytelling. I specialize in building data pipelines, analyzing financial assets, and engineering clean time-series models using the Anaconda ecosystem.
 
 ---
@@ -29,4 +29,4 @@ A data pipeline built to unpack and interpret structural consumer behavior profi
 
 ##  Let's Connect!
 * **GitHub:** [://github.com](https://://github.com)
-* *Feel free to update this section with your LinkedIn or Email later!*
+* *benedictekeya49@gmail.com

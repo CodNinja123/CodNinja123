@@ -28,5 +28,5 @@ A data pipeline built to unpack and interpret structural consumer behavior profi
 ---
 
 ##  Let's Connect!
-* **GitHub:** [://github.com](https://://github.com)
+* **GitHub:** [://github.com]([https://://github.com](https://github.com/CodNinja123/CodNinja123))
 * *benedictekeya49@gmail.com

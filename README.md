@@ -14,7 +14,8 @@ I am an aspiring Data Analyst and Python Developer passionate about transforming
 ---
 
 ##  Featured Data Projects
-### 🎬 Netflix Data Cleaning Pipeline
+### Netflix Data Cleaning Pipeline
+
 * **Description:** Developed an end-to-end Python cleaning script to transform a messy real-world dataset of ~8,000 entries into a structured format ready for analysis.
 * **Key Tasks:** Handled missing multi-categorical fields, extracted numeric data from mixed-type columns via regular expressions, and standardized datetimes.
 * **Tech Stack:** Python, Pandas, Regex, Jupyter Notebook, Git

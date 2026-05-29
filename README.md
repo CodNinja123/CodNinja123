@@ -14,6 +14,14 @@ I am an aspiring Data Analyst and Python Developer passionate about transforming
 
 ##  Featured Data Projects
 
+### [Job Listings Web Scraper](https://github.com)
+An automated data extraction application engineered to harvest, parse, and structure real-time job listings from HTML documents.
+
+* **Description:** Developed an end-to-end web scraping pipeline to navigate web page structures, extract targeted element text attributes, and handle data formatting anomalies.
+* **Key Tasks:** Executed remote server connections using the Requests library, parsed HTML DOM trees with BeautifulSoup4 CSS selectors, implemented fallback error guards for missing elements, and serialized unstructured web content into local data structures.
+* **Tech Stack:** Python, BeautifulSoup4 (bs4), Requests, Data Serialization, Jupyter Notebook, Git
+* **Links:** [GitHub Repository](https://github.com)
+
 ### [Task Tracker CLI](https://github.com)
 A high-efficiency command-line interface application engineered to manage productivity lifecycles without relying on third-party ecosystems.
 

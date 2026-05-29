@@ -22,7 +22,7 @@ A high-efficiency command-line interface application engineered to manage produc
 * **Tech Stack:** Python, Native File I/O (JSON Serialization), DateTime API, Git
 * **Links:** [GitHub Repository](https://github.com)
 
-### [Netflix__data_cleaning_pipeline](https://github.com)
+### [Netflix data cleaning pipeline](https://github.com)
 
 * **Description:** Developed an end-to-end Python cleaning script to transform a messy real-world dataset of ~8,000 entries into a structured format ready for analysis.
 * **Key Tasks:** Handled missing multi-categorical fields, extracted numeric data from mixed-type columns via regular expressions, and standardized datetimes.

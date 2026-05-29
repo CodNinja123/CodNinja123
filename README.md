@@ -4,13 +4,12 @@
 I am an aspiring Data Analyst and Python Developer passionate about transforming raw data into actionable insights through visual storytelling. I specialize in building data pipelines, analyzing financial assets, and engineering clean time-series models using the Anaconda ecosystem.
 
 ---
-
 ##  Technical Toolkit
 * **Languages:** Python (3.x)
-* **Libraries:** Pandas, NumPy, yfinance, Requests
+* **Libraries & Core Modules:** Pandas, NumPy, yfinance, Requests, Native Standard Libraries (`sys`, `json`, `os`)
 * **Visualization:** Matplotlib, Seaborn
+* **Core Systems:** CLI Architecture, Native File I/O & Persistent Storage (JSON Serialization)
 * **Tools & Platforms:** Anaconda, Jupyter Notebook, Git, GitHub
-
 ---
 
 ##  Featured Data Projects
@@ -23,7 +22,7 @@ A high-efficiency command-line interface application engineered to manage produc
 * **Tech Stack:** Python, Native File I/O (JSON Serialization), DateTime API, Git
 * **Links:** [GitHub Repository](https://github.com)
 
-###[ Netflix Data Cleaning Pipeline](https://github.com)
+### [Netflix__data_cleaning_pipeline](https://github.com)
 
 * **Description:** Developed an end-to-end Python cleaning script to transform a messy real-world dataset of ~8,000 entries into a structured format ready for analysis.
 * **Key Tasks:** Handled missing multi-categorical fields, extracted numeric data from mixed-type columns via regular expressions, and standardized datetimes.

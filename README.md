@@ -34,7 +34,7 @@ An automated analytical dashboard tracking performance trends for mega-cap tech 
 * **Key Achievements:** Solved multi-threaded database locking issues, resampled granular daily data into weekly/monthly aggregates, and mapped 20-day vs. 200-day rolling moving averages to pinpoint market momentum.
 * **Tech Stack:** Python, `yfinance`, Pandas, Matplotlib
 
-###  [Exploratory Data Visualization Tutorial](https://github.com)
+###  [Exploratory Data Visualization ](https://github.com)
 A data pipeline built to unpack and interpret structural consumer behavior profiles.
 * **Key Achievements:** Built matrix distributions, categorical boxplots, feature density estimations, and multi-variable heatmaps to extract correlation signals from sample tables.
 * **Tech Stack:** Python, Jupyter, Seaborn, Matplotlib

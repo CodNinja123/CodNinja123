@@ -15,7 +15,15 @@ I am an aspiring Data Analyst and Python Developer passionate about transforming
 
 ##  Featured Data Projects
 
-### Netflix Data Cleaning Pipeline
+### [Task Tracker CLI](https://github.com)
+A high-efficiency command-line interface application engineered to manage productivity lifecycles without relying on third-party ecosystems.
+
+* **Description:** Developed a zero-dependency CLI application to track tasks, handle state machines, and automatically manage persistent file-based storage.
+* **Key Tasks:** Handled low-level command argument vector routing (`sys.argv`), designed a dynamic data mutation architecture with unique auto-incrementing ID tracking, and built structural grid alignments for readable terminal-based reporting.
+* **Tech Stack:** Python, Native File I/O (JSON Serialization), DateTime API, Git
+* **Links:** [GitHub Repository](https://github.com)
+
+###[ Netflix Data Cleaning Pipeline](https://github.com)
 
 * **Description:** Developed an end-to-end Python cleaning script to transform a messy real-world dataset of ~8,000 entries into a structured format ready for analysis.
 * **Key Tasks:** Handled missing multi-categorical fields, extracted numeric data from mixed-type columns via regular expressions, and standardized datetimes.
